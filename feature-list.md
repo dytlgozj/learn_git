@@ -2,3 +2,4 @@
 1. Developing
 2. Sleep
 3. Put something in backpack
+4. Showing detail-page
